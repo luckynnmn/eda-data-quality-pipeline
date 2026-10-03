@@ -17,8 +17,8 @@ Follow these steps to run the notebook on your own machine.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/luckynnmn/msba-265.git
-   cd msba-265
+   git clone https://github.com/luckynnmn/eda-data-quality-pipeline.git
+   cd eda-data-quality-pipeline
    ```
 
 2. **Create a virtual environment**
